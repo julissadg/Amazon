@@ -1,0 +1,14 @@
+{
+    "_id" : ObjectId("5fe2b6097c09f43ff828511b"),
+    "nombre" : "galaxy",
+    "costo" : 4000,
+    "categoria" : "smartphone",
+    "__v" : 0
+}
+{
+    "_id" : ObjectId("5fe2b9d7aba67c3ce413663e"),
+    "nombre" : "iphone",
+    "costo" : 4000,
+    "categoria" : "smartphone",
+    "__v" : 0
+}
